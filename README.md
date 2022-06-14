@@ -35,10 +35,10 @@ by AJ Martinez
 - Find drivers of churns, find solutions and recomendations to lower the churning rate.
 
 ## Initial Questions
-- What ?
-- What ?
-- What ?
-- What ?
+- How does the tax_value relate to amount of bathrooms? What about bedrooms?
+- How does the tax_value relate construction age?
+- How does the tax value relate to house size?
+- How does the tax value relate to location?
 
 ## Deliberables
 1. Readme(.md)
